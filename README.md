@@ -11,6 +11,7 @@ Features: <br />
 -App checks for internet connection for all queries to Foursquare <br />
 -Custom UITableView with animated subcells <br /> <br />
 -Soon to be released to App Store <br />
--Code Available upon Request <br /> <br />
+-Code Available upon Request <br /> 
+-Note: Actual Application is much smoother than demo provided below<br /> 
 
 ![alt tag](https://github.com/sp71/CityLife/blob/master/demo.gif)
