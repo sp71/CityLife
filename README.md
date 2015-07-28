@@ -10,7 +10,7 @@ Features: <br />
 -UIProgressView to show downloaded data <br /> 
 -App checks for internet connection for all queries to Foursquare <br />
 -Custom UITableView with animated subcells <br /> <br />
--Soon to be released to App Store <br />
+-Avilable in App Store: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1017362846&mt=8 <br />
 -Code Available upon Request <br /> 
 -Note: Actual Application is much smoother than demo provided below<br /> 
 
