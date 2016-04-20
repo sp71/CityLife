@@ -1,3 +1,4 @@
+Note: Demo Shown is for version 1.1. A updated demo will be posted for the current app soon. <br />
 An iOS Objective-C application for finding specific venues near user location.  <br />
 
 Features: <br />
