@@ -7,7 +7,7 @@ Features: <br />
 -Map Displaying different colored pins to represent distance from user location <br />
 -Navigation <br />
 -Custom UITableView with animated subcells <br /> <br />
--Avilable in App Store: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1017362846&mt=8 <br />
+-Available in App Store: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1017362846&mt=8 <br />
 -Code Available upon Request <br /> 
 -Note: Actual Application is much smoother than demo provided below<br /> 
 
