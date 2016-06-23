@@ -47,5 +47,4 @@ An iOS Objective-C application for finding specific venues near a user's locatio
 - Interface Builder: Storyboard
 
 # AppStore
-- Pending Review for this updated version
 - [AppStore](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1017362846&mt=8)
